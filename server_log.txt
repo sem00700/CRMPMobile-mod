@@ -1,0 +1,329 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:10:38] 
+[12:10:39] Server Plugins
+[12:10:39] --------------
+[12:10:39]  Loading plugin: crashdetect
+[12:10:39]   Failed.
+[12:10:39]  Loading plugin: streamer
+[12:10:39] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:10:39]   Loaded.
+[12:10:39]  Loading plugin: sscanf
+[12:10:39] 
+
+[12:10:39]  ===============================
+
+[12:10:39]       sscanf plugin loaded.     
+
+[12:10:39]          Version:  2.8.3        
+
+[12:10:39]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:10:39]  ===============================
+
+[12:10:39]   Loaded.
+[12:10:39]  Loading plugin: mysql
+[12:10:39]  >> plugin.mysql: R39-6 successfully loaded.
+[12:10:39]   Loaded.
+[12:10:39]  Loading plugin: pawncmd
+[12:10:39] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[12:10:39]   Loaded.
+[12:10:39]  Loading plugin: pawnraknet
+[12:10:39] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 14:19:11
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[12:10:39]   Loaded.
+[12:10:39]  Loaded 5 plugins.
+
+[12:10:39] 
+[12:10:39] Filterscripts
+[12:10:39] ---------------
+[12:10:39]   Loaded 0 filterscripts.
+
+[12:10:39] [TextDraw]: Все текстдравы созданы
+[12:10:39] [Menu]: Все меню созданы
+[12:10:39] [Vehicle]: Все транспортные средства созданы
+[12:10:39] [TP]: Все входы/выходы созданы
+[12:10:39] Загружено фракционных пикапов авто 10 штук
+[12:10:43] Не удалось подключится к базе данных!
+[12:10:43] ---------------------------------
+[12:10:43]     	         					
+[12:10:43]          TRUEE ROLEPLAY          
+[12:10:43]      2020 START DEVELOPMENT      
+[12:10:43]  DEVELOPER ALEKSEEVICH AND OSCAR 
+[12:10:43] ---------------------------------
+[12:10:43] Number of vehicle models: 6
+[12:13:04] [connection] 127.0.0.1:62058 requests connection cookie.
+[12:13:04] [connection] incoming connection: 127.0.0.1:62058 id: 0
+[12:13:11] [join] VAVAN has joined the server (0:127.0.0.1)
+[12:13:12] player VAVAN buffer ADAC49DADDDFF9C8AD4AE48E04E95FC48448E9A5
+[12:13:16] [part] VAVAN has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:24:14] 
+[12:24:14] Server Plugins
+[12:24:14] --------------
+[12:24:14]  Loading plugin: crashdetect
+[12:24:14]   Failed.
+[12:24:14]  Loading plugin: streamer
+[12:24:14] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:24:14]   Loaded.
+[12:24:14]  Loading plugin: sscanf
+[12:24:14] 
+
+[12:24:14]  ===============================
+
+[12:24:14]       sscanf plugin loaded.     
+
+[12:24:14]          Version:  2.8.3        
+
+[12:24:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:24:14]  ===============================
+
+[12:24:14]   Loaded.
+[12:24:14]  Loading plugin: mysql
+[12:24:15]  >> plugin.mysql: R39-6 successfully loaded.
+[12:24:15]   Loaded.
+[12:24:15]  Loading plugin: pawncmd
+[12:24:15] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[12:24:15]   Loaded.
+[12:24:15]  Loading plugin: pawnraknet
+[12:24:15] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 14:19:11
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[12:24:15]   Loaded.
+[12:24:15]  Loaded 5 plugins.
+
+[12:24:15] 
+[12:24:15] Filterscripts
+[12:24:15] ---------------
+[12:24:15]   Loaded 0 filterscripts.
+
+[12:24:15] [TextDraw]: Все текстдравы созданы
+[12:24:15] [Menu]: Все меню созданы
+[12:24:15] [Vehicle]: Все транспортные средства созданы
+[12:24:15] [TP]: Все входы/выходы созданы
+[12:24:15] Загружено фракционных пикапов авто 10 штук
+[12:24:19] Не удалось подключится к базе данных!
+[12:24:19] ---------------------------------
+[12:24:19]     	         					
+[12:24:19]          TRUEE ROLEPLAY          
+[12:24:19]      2020 START DEVELOPMENT      
+[12:24:19]  DEVELOPER ALEKSEEVICH AND OSCAR 
+[12:24:19] ---------------------------------
+[12:24:19] Number of vehicle models: 6
+[12:25:37] [connection] 127.0.0.1:60654 requests connection cookie.
+[12:25:37] [connection] incoming connection: 127.0.0.1:60654 id: 0
+[12:25:38] [join] VAVAN has joined the server (0:127.0.0.1)
+[12:25:39] player VAVAN buffer ADAC49DADDDFF9C8AD4AE48E04E95FC48448E9A5
+[12:25:42] [part] VAVAN has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:28:36] 
+[12:28:36] Server Plugins
+[12:28:36] --------------
+[12:28:36]  Loading plugin: crashdetect
+[12:28:36]   Failed.
+[12:28:36]  Loading plugin: streamer
+[12:28:36] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:28:36]   Loaded.
+[12:28:36]  Loading plugin: sscanf
+[12:28:36] 
+
+[12:28:36]  ===============================
+
+[12:28:36]       sscanf plugin loaded.     
+
+[12:28:36]          Version:  2.8.3        
+
+[12:28:36]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:28:36]  ===============================
+
+[12:28:36]   Loaded.
+[12:28:36]  Loading plugin: mysql
+[12:28:36]  >> plugin.mysql: R39-6 successfully loaded.
+[12:28:36]   Loaded.
+[12:28:36]  Loading plugin: pawncmd
+[12:28:36] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[12:28:36]   Loaded.
+[12:28:36]  Loading plugin: pawnraknet
+[12:28:36] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 14:19:11
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[12:28:36]   Loaded.
+[12:28:36]  Loaded 5 plugins.
+
+[12:28:36] 
+[12:28:36] Filterscripts
+[12:28:36] ---------------
+[12:28:36]   Loaded 0 filterscripts.
+
+[12:28:36] [TextDraw]: Все текстдравы созданы
+[12:28:36] [Menu]: Все меню созданы
+[12:28:36] [Vehicle]: Все транспортные средства созданы
+[12:28:36] [TP]: Все входы/выходы созданы
+[12:28:36] Загружено фракционных пикапов авто 10 штук
+[12:28:40] Не удалось подключится к базе данных!
+[12:28:40] ---------------------------------
+[12:28:40]     	         					
+[12:28:40]          TRUEE ROLEPLAY          
+[12:28:40]      2020 START DEVELOPMENT      
+[12:28:40]  DEVELOPER ALEKSEEVICH AND OSCAR 
+[12:28:40] ---------------------------------
+[12:28:40] Number of vehicle models: 6
+[12:29:20] [connection] 127.0.0.1:55312 requests connection cookie.
+[12:29:20] [connection] incoming connection: 127.0.0.1:55312 id: 0
+[12:29:20] [join] VAVAN has joined the server (0:127.0.0.1)
+[12:29:21] player VAVAN buffer ADAC49DADDDFF9C8AD4AE48E04E95FC48448E9A5
+[12:29:25] [part] VAVAN has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:35:59] 
+[12:35:59] Server Plugins
+[12:35:59] --------------
+[12:35:59]  Loading plugin: crashdetect
+[12:35:59]   Failed.
+[12:35:59]  Loading plugin: streamer
+[12:35:59] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:35:59]   Loaded.
+[12:35:59]  Loading plugin: sscanf
+[12:35:59] 
+
+[12:35:59]  ===============================
+
+[12:35:59]       sscanf plugin loaded.     
+
+[12:35:59]          Version:  2.8.3        
+
+[12:35:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:35:59]  ===============================
+
+[12:35:59]   Loaded.
+[12:35:59]  Loading plugin: mysql
+[12:35:59]  >> plugin.mysql: R39-6 successfully loaded.
+[12:35:59]   Loaded.
+[12:35:59]  Loading plugin: pawncmd
+[12:35:59] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[12:35:59]   Loaded.
+[12:35:59]  Loading plugin: pawnraknet
+[12:35:59] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 14:19:11
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[12:35:59]   Loaded.
+[12:35:59]  Loaded 5 plugins.
+
+[12:36:00] 
+[12:36:00] Filterscripts
+[12:36:00] ---------------
+[12:36:00]   Loaded 0 filterscripts.
+
+[12:36:00] [TextDraw]: Все текстдравы созданы
+[12:36:00] [Menu]: Все меню созданы
+[12:36:00] [Vehicle]: Все транспортные средства созданы
+[12:36:00] [TP]: Все входы/выходы созданы
+[12:36:00] Загружено фракционных пикапов авто 10 штук
+[12:36:04] Не удалось подключится к базе данных!
+[12:36:04] ---------------------------------
+[12:36:04]     	         					
+[12:36:04]          TRUEE ROLEPLAY          
+[12:36:04]      2020 START DEVELOPMENT      
+[12:36:04]  DEVELOPER ALEKSEEVICH AND OSCAR 
+[12:36:04] ---------------------------------
+[12:36:04] Number of vehicle models: 6
+[12:38:37] [connection] 127.0.0.1:54143 requests connection cookie.
+[12:38:37] [connection] incoming connection: 127.0.0.1:54143 id: 0
+[12:38:37] [join] VAVAN has joined the server (0:127.0.0.1)
+[12:38:39] player VAVAN buffer ADAC49DADDDFF9C8AD4AE48E04E95FC48448E9A5
+[12:38:39] SELECT * FROM whitelist WHERE name='VAVAN' LIMIT 1
+[12:38:42] [part] VAVAN has left the server (0:2)
